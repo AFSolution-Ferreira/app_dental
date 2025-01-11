@@ -1,16 +1,14 @@
 # app_afs_dental
 
-A new Flutter project.
+Aplicativo para Ordem de Serviços Dental
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este projeto é um ponto de partida para um aplicativo Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Alguns recursos para você começar se este for seu primeiro projeto Flutter:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [FIGMA - Protótipo do projeto aprovado pelo cliente](https://www.figma.com/proto/WLMX8Ude1uQU0gxlKSnfG9/AppDental?node-id=0-1&t=0iswQlvlRSW79Eym-1)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O mesmo está sendo desenvolvido pelo responsável técnico Alexandre Ferreira
+[Acesso - Alexandre Ferreira dos Santos](https://www.linkedin.com/in/afs-ferreira/)
